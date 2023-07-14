@@ -1,2 +1,2 @@
 # aim-practice-go
-a simple aim practice go developed with raylib library.
+a simple aim practice game developed with raylib library.
